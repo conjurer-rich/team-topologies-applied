@@ -12,7 +12,7 @@
           {% endif %}
           {{ include.main_content | markdownify }}
           {% if include.cta_url and include.cta_button_text %}
-            <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
+            <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
           {% endif %}
         </div>
     </div>
@@ -31,7 +31,7 @@
           {% endif %}
           {{ include.main_content | markdownify }}
           {% if include.cta_url and include.cta_button_text %}
-              <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
+              <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
           {% endif %}
         </div>
     </div>
@@ -50,7 +50,7 @@
           {% endif %}
             {{ include.main_content | markdownify }}
             {% if include.cta_url and include.cta_button_text %}
-              <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
+              <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
             {% endif %}
         </div>
     </div>
