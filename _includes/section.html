@@ -7,7 +7,7 @@
     <div class="container">
         <div class="content {% if include.large %}large{% endif %} {% if include.condensed %}condensed{% endif %} {% if include.no_underline %}no-underline{% endif %} {% if include.align == 'center' %}align-center{% endif %}" >
           <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
-          {{ include.description | markdownify }}
+          {{ include.main_content | markdownify }}
           {% if include.video_id %}
             <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.video_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           {% endif %}
