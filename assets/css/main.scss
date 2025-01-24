@@ -9,28 +9,6 @@ $body-color: #222222;
 $primary-color: #9B79EE;
 $call-to-action-color: #F2195C;
 
-
-.hide {
-  display: none;
-}
-
-
-
-
-
-
-
-/* Use border-box box-sizing for all elements */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-.image img {
-  max-width: 100%; /* Make image take the max width of its parent container, the .image div */
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "page__hero";
@@ -48,6 +26,22 @@ $call-to-action-color: #F2195C;
 @import "topics-grid";
 @import "facilitators";
 @import "page__footer";
+
+
+.hide {
+  display: none;
+}
+
+/* Use border-box box-sizing for all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.image img {
+  max-width: 100%; /* Make image take the max width of its parent container, the .image div */
+}
 
 .no-padding {
   gap: 0;

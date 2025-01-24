@@ -7,11 +7,13 @@
             </p>
         </div>
         <div class="content col-small">
+          {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
-            {{ include.main_content | markdownify }}
-            {% if include.cta_url and include.cta_button_text %}
-              <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
-            {% endif %}
+          {% endif %}
+          {{ include.main_content | markdownify }}
+          {% if include.cta_url and include.cta_button_text %}
+            <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
+          {% endif %}
         </div>
     </div>
   </div>
@@ -24,11 +26,13 @@
             </p>
         </div>
         <div class="content col">
+          {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
-            {{ include.main_content | markdownify }}
-            {% if include.cta_url and include.cta_button_text %}
+          {% endif %}
+          {{ include.main_content | markdownify }}
+          {% if include.cta_url and include.cta_button_text %}
               <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
-            {% endif %}
+          {% endif %}
         </div>
     </div>
   </div> 
@@ -41,7 +45,9 @@
             </p>
         </div>
         <div class="content col">
+          {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+          {% endif %}
             {{ include.main_content | markdownify }}
             {% if include.cta_url and include.cta_button_text %}
               <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>

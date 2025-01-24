@@ -1,10 +1,11 @@
 .page__hero--overlay {
   position: relative;
+  margin-bottom: 0;
 }
 
 .page__hero--overlay .page__lead  {
   color: $body-color;
   text-shadow: none;
   font-size: 1.7rem;
-  max-width: 60%;
+  max-width: 65%;
 }

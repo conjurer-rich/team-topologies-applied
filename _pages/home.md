@@ -8,16 +8,14 @@ header:
   hide_title: true
   logo_path: /assets/images/logos/TTApplied_logo_White.png
   og_image: /assets/images/logos/TTApplied_logo_White.png
-  overlay_color: "#FFFFFF"
-  overlay_filter: rgba(255,255,255, 0.5)
   overlay_image: /assets/images/backgrounds/Paper planes_TTApplied.png
   #actions: 
   #  - label: "<i class='fas fa-rocket'></i> Get started today"
   #    url: /quick-start-guide
 excerpt: > 
-  Unlock <span style="color:#F2195C">**fast flow**</span> and <span style="color:#F2195C">**adaptive organizational dynamics**</span> with  
+  Unlock <span style="color:#F2195C">**fast flow**</span> and <span style="color:#F2195C">**adaptive   
   
-  Team Topologies Applied
+  organizational dynamics**</span>
 feature_row:
   - alt: "training"
     image_path: "/assets/images/features/feature_training.png"
@@ -86,18 +84,18 @@ enabling_quote_list:
     Syngenta Digital"
 
 workshop_gallery:
+  - url: /assets/images/workshops/workshop-talking.jpg
+    image_path: /assets/images/workshops/workshop-talking.jpg
+    alt: "Workshop talking"
+    title: "Workshop talking"
+  - url: /assets/images/workshops/workshop-writing.jpg
+    image_path: /assets/images/workshops/workshop-writing.jpg
+    alt: "Workshop writing"
+    title: "Workshop writing"
   - url: /assets/images/workshops/workshop-presentation.jpg
     image_path: /assets/images/workshops/workshop-presentation.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/workshops/workshop-presentation.jpg
-    image_path: /assets/images/workshops/workshop-presentation.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/workshops/workshop-presentation.jpg
-    image_path: /assets/images/workshops/workshop-presentation.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Workshop presentation"
+    title: "Workshop presentation"
 
 facilitators:
   title: "FACILITATORS"
@@ -212,7 +210,7 @@ facilitators:
   main_content="Even the best teams struggle in the wrong environment.  
   Learn how to set them up for success with Team Topologies training."
   link="#contact"
-  link_text=">> contact us"
+  link_text=">> contact us about training"
   section_class="section--grey"
 %}
 
