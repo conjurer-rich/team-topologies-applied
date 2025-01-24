@@ -70,14 +70,14 @@ enabling_topics:
     - title: "TEAM TOPOLOGIES FOR ADAPTIVE ORGANIZATIONS"
 
 workshop_quote_list:
-  - excerpt: "During our engagement, one of the topics that caught my attention the most was User Needs Mapping, which helped us reconsider how internal services are provided"
-    image_path: "/assets/images/profiles/rodrigo_viana_rocha.jpeg"
-    image_caption: "Rodrigo Viana Rocha,  
-    Head of Software Engineering,  
-    Syngenta Digital"
+  - excerpt: "We were able to kick start our Team Topologies journey through custom-made workshops. These workshops helped us get to grips with Team Topologies concepts as well as reflect on our current structure and interactions. The facilitators managed to find a great balance between teaching theory as well as getting us to recognise practical examples in our day-to-day work."
+    image_path: "/assets/images/profiles/laden_oksuzer-campbell.jpeg"
+    image_caption: "Laden Oksuzer-Campbell,  
+    Head of Agility,  
+    Trayport"
 
 enabling_quote_list:
-  - excerpt: "During our engagement, one of the topics that caught my attention the most was User Needs Mapping, which helped us reconsider how internal services are provided"
+  - excerpt: "I thought I had extracted most of the benefits from the Team Topologies book...how wrong I was! My current company (Syngenta Digital) treated us to several sessions with specialists, and we were fortunate to have these sessions masterfully conducted by Rich Allen and Eduardo Da Silva. They were able to challenge us on various aspects and calmly introduce a world of deeper concepts within the Team Topologies universe."
     image_path: "/assets/images/profiles/rodrigo_viana_rocha.jpeg"
     image_caption: "Rodrigo Viana Rocha,  
     Head of Software Engineering,  
@@ -102,11 +102,11 @@ facilitators:
   description: "A Team Topologies Valued Practitioner (TTVP) is an independent expert practitioner (an individual person) in the software IT organization design. Our valued space with brings together expertise in their field (such as Domain-Driven Design, Security, HR experience, etc.) and a strong awareness of Team Topologies."
   members:
     - name: "Rich Allen"
-      image: "/assets/images/facilitators/rich_allen.png"
+      image: "/assets/images/facilitators/rich_allen.jpeg"
     - name: "Erica Engelen"
-      image: "/assets/images/facilitators/erica_engelen.png"
+      image: "/assets/images/facilitators/erica_engelen.jpeg"
     - name: "João Rosa"
-      image: "/assets/images/facilitators/joão_rosa.png"
+      image: "/assets/images/facilitators/joão_rosa.jpeg"
     - name: "Eduardo da Silva"
       image: "/assets/images/facilitators/eduardo_da_silva.png"
     - name: "Susanne Kaiser"
@@ -124,6 +124,7 @@ facilitators:
   cta_url="#contact"
   cta_button_text=">> contact us"
   pullleft=true
+  flex-align-center=true
 %}
 
 {% include gallery id="workshop_gallery" %}
@@ -153,7 +154,7 @@ facilitators:
 
   Aside from working in your context, you will also benefit from the interactive, hands-on format of the trainings. The practical exercises and real-world examples will make sure everyone is engaged and can learn 'by doing'."
   
-  right_content="## PRACTICAL DETAILS  
+  right_content="### PRACTICAL DETAILS  
 
   **Format**  
   2 x 3 hours + 1h prep-meeting upfront  
@@ -176,10 +177,10 @@ facilitators:
 
 {% include call-to-action.html
   title="YES, WE WANT / NEED THIS !"
-  content="Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
-  url="#contact"
-  button_text=">> contact us"
-  secondary_url="#contact"
+  url="mailto:rich@conjurersolutions.co.uk?subject=Team%20Topologies%20Enablement&body=Hey%20Rich,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  button_text=">> Send us an email"
+  secondary_url="https://app.reclaim.ai/m/richard-allen/high-priority-meeting"
+  secondary_button_prefix=" or "
   secondary_button_text=">> book a meeting"
   section_wrap=true
 %}
@@ -237,19 +238,18 @@ facilitators:
 %}
 
 {% include section-text-two-col.html
-  title="FAQ"
-  left_content="**MAKING YOUR FLOW VISIBLE**
+  left_content="### MAKING YOUR FLOW VISIBLE
 
 What if you could make the flow of value in your organization visible? See the blockers to flow and identify where teams struggle with dependencies or blurry boundaries.
 What if you would look at your organization outside-in  - from your customer perspective? How well are you organized to deliver value with quality and speed?
 
 During these workshops, we support you and your teams to create a visual understanding of the flow of value, we help identify blockers and will enable a very constructive conversation on where to optimize.
 
-**A SAFE SPACE**  
+### A SAFE SPACE
 
 Just like our trainings, these workshops offer a safe and neutral space for people to objectively visualiz﻿e how work flows through your organization. It will align people in getting a shared understanding of the environment in which they work and will enable them to co-create solutions."
   
-  right_content="## PRACTICAL DETAILS
+  right_content="### PRACTICAL DETAILS
 
 **Format**  
 2 x 3 hours + 1h prep-meeting upfront  
@@ -269,8 +269,9 @@ Lets discuss which content, format, timing fits best with your desired outcomes.
 %}
 
 {% include quote_row.html
-  quote_list=page.workshop_quote_list
-  section_class="section--grey"
+  id="workshop_quote_list"
+  section_class="section--grey"  
+  section_wrap=true
 %}
 
 {% include section-image-two-col.html
@@ -281,7 +282,6 @@ Lets discuss which content, format, timing fits best with your desired outcomes.
 %}
 
 {% include section-text-two-col.html
-  title="FAQ"
   left_content="## BECOME AN ADAPTIVE ORGANIZATION
 
 By using Team Topologies vocabulary, behavior constraints and practices, modern engineering capabilities and self-management principles, we empower your teams to sense and share when change is needed and enable them to optimize continuously.
@@ -315,16 +315,18 @@ We work with you and your teams to uncover existing blockers to flow, recognize 
 %}
 
 {% include quote_row.html
-  quote_list=page.enabling_quote_list
+  id="enabling_quote_list"
   section_class="section--grey"
+  section_wrap=true
 %}
 
 {% include call-to-action.html
   title="LET'S HAVE A CONVERSATION"
-  content="Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
-  url="#contact"
-  button_text=">> contact us"
-  secondary_url="#contact"
+  main_content="Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
+  url="mailto:rich@conjurersolutions.co.uk?subject=Team%20Topologies%20Enablement&body=Hey%20Rich,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  button_text=">> Send us an email"
+  secondary_url="https://app.reclaim.ai/m/richard-allen/high-priority-meeting"
+  secondary_button_prefix=" or "
   secondary_button_text=">> book a meeting"
   section_wrap=true
 %}
