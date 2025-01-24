@@ -1,0 +1,190 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$body-color: #222222;
+$primary-color: #9B79EE;
+$call-to-action-color: #F2195C;
+
+
+.hide {
+  display: none;
+}
+
+.feature__item {
+  padding: 20px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.btn.btn--primary {
+  background-color: unset;
+  color: $call-to-action-color;
+}
+
+.profile-photo {
+  border-radius: 50%;
+}
+
+.site-title {
+  font-size: 1.5em;
+}
+
+.cta-wrapper {
+  margin: 1em 0;
+  border-radius: 4px;
+}
+
+.cta-text {
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+}
+
+/* Use border-box box-sizing for all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.page__content .section {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.page__content .container h2 {
+    margin: 0 0 0.75rem 0;
+}
+
+.page__content .condensed h2 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.page__content .condensed p {
+  margin: 0 0 1.1em;
+}
+
+.page__content .large {
+  font-size: 1.4em;
+}
+
+.page__content .no-underline h2 {
+  border: none;
+}
+
+.page__content .align-center {
+  text-align: center;
+}
+
+.image img {
+  max-width: 100%; /* Make image take the max width of its parent container, the .image div */
+}
+
+.flex-grid {
+  display: flex;
+  gap: 2rem;
+}
+
+.flex-grid .col {
+  flex: 1;
+}
+
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-grid-thirds .col {
+  width: 32%;
+}
+
+.flex-grid-30-70 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-grid-30-70 .col-small {
+  width: 32%;
+}
+
+
+/* Mobile-first breakpoint */
+@media (max-width: 400px) {
+  .flex-grid {
+    display: block;
+  }
+}
+
+
+.quote__wrapper {
+    clear: both;
+    margin-bottom: 2em;
+    text-align: center; 
+    display: inline-block;
+}
+
+.quote__wrapper .feature__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote__wrapper .feature__item .author__avatar {
+    margin-bottom: 1em;
+    width: fit-content;
+    height: fit-content;
+    flex-basis: 100%;
+    padding: 1rem;
+    font-size: 1.0rem;
+}
+
+img.author-avatar {
+    border-radius: 50%;
+}
+
+.author-excerpt {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+.author-caption {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__hero--overlay {
+  position: relative;
+}
+
+.page__hero--overlay .page__lead  {
+  color: $body-color;
+  text-shadow: none;
+  font-size: 1.7rem;
+  max-width: 80%;
+}
+
+.section--grey {
+  background-color: #f0f0f0;
+}
+
+
+.main {
+  position: absolute; // Position relative to .page__hero
+  top: -20px; // Adjust this value to control the overlay amount
+  left: 50%;
+  transform: translateX(-50%); // Center the wrapper horizontally
+  clear: both;
+  margin-bottom: 2em;
+  text-align: center; 
+  display: inline-block;
+}

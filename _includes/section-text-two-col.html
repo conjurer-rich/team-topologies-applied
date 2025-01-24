@@ -1,0 +1,12 @@
+<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container flex-grid">
+        <div class="content col">
+            {{ include.text_left | markdownify }}
+        </div>
+        <div class="content col">
+        <p>
+          {{ include.text_left | markdownify }}
+        </p>
+        </div>
+    </div>
+</div>

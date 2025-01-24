@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  site:
+    build: .
+    image: conjurer/teamtopologiesapplied.com:latest
+    command: bundle exec jekyll serve --trace --host 0.0.0.0 --watch --incremental --port 4004
+    environment:
+      - JEKYLL_ENV=development
+    volumes:
+      - ./:/srv/jekyll
+    ports:
+      - 4004:4004

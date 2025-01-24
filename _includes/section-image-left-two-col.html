@@ -1,0 +1,16 @@
+<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container flex-grid">
+        <div class="content col">
+            <p>
+                <img src="{{ include.image_path }}" alt="">
+            </p>
+        </div>
+        <div class="content col">
+            <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+            {{ include.description | markdownify }}
+        </div>
+    </div>
+    {% if include.cta_url and include.cta_button_text %}
+      <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
+    {% endif %}
+</div>
