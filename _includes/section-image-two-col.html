@@ -1,4 +1,4 @@
-<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %} no-padding">
+<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %} no-padding" {% if include.id %} id="{{ include.id }}" {% endif %}>
 {% if include.pullright == true %}
     <div class="container flex-grid flex-grid-30-70 no-padding">
         <div class="content col">

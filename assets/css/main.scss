@@ -33,17 +33,21 @@ $call-to-action-color: #F2195C;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "page__hero.scss";
-@import "page__content.scss";
-@import "author.scss";
-@import "flex_grid.scss";
-@import "quote_wrapper.scss";
-@import "titles.scss";
-@import "sections.scss";
-@import "call-to-action.scss";
-@import "feature_row.scss";
-@import "alignment.scss";
-@import "buttons.scss";
+@import "page__hero";
+@import "page__content";
+@import "author";
+@import "flex_grid";
+@import "quote_wrapper";
+@import "titles";
+@import "sections";
+@import "call-to-action";
+@import "feature_row";
+@import "alignment";
+@import "buttons";
+@import "training-topics";
+@import "topics-grid";
+@import "facilitators";
+@import "page__footer";
 
 .no-padding {
   gap: 0;

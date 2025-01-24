@@ -1,0 +1,29 @@
+.page__footer {
+  background-color: #fff;
+  
+}
+
+.page__footer-content {
+  background-image: url('/assets/images/backgrounds/Paper planes_TTApplied.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 400px;
+  vertical-align: bottom;
+  color: #000;
+}
+
+.page__footer-logo {
+  text-align: center;
+}
+
+.page__footer-strapline-logo {
+  width: 50px;
+}
+
+.page__footer-strapline {
+  text-align: right;
+  margin-top: 2.5rem;
+  font-size: 1rem;
+  padding-right: 2rem;
+}
