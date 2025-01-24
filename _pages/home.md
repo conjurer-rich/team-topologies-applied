@@ -188,16 +188,17 @@ facilitators:
 {% include section-text-two-col.html
   title="FAQ"
   left_content="**Do I get a certificate?**  
-  For the official Team Topologies trainings, you will get a certificate of completion from Team Topologies Ttd.
+  For the official Team Topologies trainings, you will get a certificate of completion from Team Topologies Ltd.
   There intentionally is no formal certification available from Team Topologies since they don't believe this adds real value to the industry.
 
   **What else do I get?**  
   Aside from the best training in the world, the most lovely, funny and knowledgeable facilitators, and of course priceless insights into your organization, you will also get:
-    - time back in your life, because work wil go a lot smoother
-    - safe money with therapists, because you'll be a lot happier
-    - 20% discount to the Team Topologies Academy
-    - PDF extracts of the Miro boards
-    - PDF of Infographics and cheat sheets"
+
+- time back in your life, because work wil go a lot smoother
+- safe money with therapists, because you'll be a lot happier
+- 20% discount to the Team Topologies Academy
+- PDF extracts of the Miro boards
+- PDF of Infographics and cheat sheets"
   
   right_content="
   **Is it worth the investment of time and people?**
