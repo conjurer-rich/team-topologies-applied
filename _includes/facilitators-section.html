@@ -24,7 +24,7 @@
         </div>
         <div class="facilitator-card__content">
           {% if member.name %}
-          <p class="facilitator-card__name"><strong>{{ member.name }}</strong></p>
+          <p class="facilitator-card__name"><a href="{{ member.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin" title="LinkedIn"></i> <strong>{{ member.name }}</strong></a></p>
           {% endif %}
           {% if member.bio %}
           <p class="facilitator-card__bio">{{ member.bio }}</p>

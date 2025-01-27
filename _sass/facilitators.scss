@@ -47,6 +47,7 @@
   &__grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
     gap: 2rem;
     
     @media (max-width: 992px) {
@@ -65,6 +66,7 @@
   
   &__image {
     margin-bottom: 1rem;
+    max-width: 200px;
     
     img {
       width: 100%;

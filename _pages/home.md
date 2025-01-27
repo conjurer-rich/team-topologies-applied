@@ -103,24 +103,26 @@ facilitators:
   members:
     - name: "Rich Allen"
       image: "/assets/images/facilitators/rich_allen.jpeg"
+      linkedin: "https://www.linkedin.com/in/richardallen/"
     - name: "Erica Engelen"
       image: "/assets/images/facilitators/erica_engelen.jpeg"
-    - name: "João Rosa"
-      image: "/assets/images/facilitators/joão_rosa.jpeg"
-    - name: "Eduardo da Silva"
-      image: "/assets/images/facilitators/eduardo_da_silva.png"
-    - name: "Susanne Kaiser"
-      image: "/assets/images/facilitators/susanne_kaiser.png"
-    - name: "Kenny Baas-Schwegler"
-      image: "/assets/images/facilitators/kenny_baas_schwegler.png"
+      linkedin: "https://www.linkedin.com/in/ericaengelen/"
+#    - name: "João Rosa"
+#      image: "/assets/images/facilitators/joão_rosa.jpeg"
+#    - name: "Eduardo da Silva"
+#      image: "/assets/images/facilitators/eduardo_da_silva.png"
+#    - name: "Susanne Kaiser"
+#      image: "/assets/images/facilitators/susanne_kaiser.png"
+#    - name: "Kenny Baas-Schwegler"
+#      image: "/assets/images/facilitators/kenny_baas_schwegler.png"
 ---
 
 {% include feature_row %}
 
 {% include section-image-left-two-col.html
   section_class="section--grey"
-  image_path="/assets/images/teamtopologies/team_topologies_logo.png"
-  main_content="Learn how to apply Team Topologies in your context in the official, certified Team Topologies trainings hosted by Team Topologies Valued Practitioners"
+  image_path="/assets/images/teamtopologies/teamtopologies-2021-TTVP-colour-blacktext-sm.png"
+  main_content="Learn how to apply Team Topologies in your context in the official, certified Team Topologies trainings facilitated by Team Topologies Valued Practitioners"
   cta_url="#contact"
   cta_button_text=">> contact us"
   pullleft=true
@@ -146,13 +148,13 @@ facilitators:
 
 {% include section-text-two-col.html
   left_content="### A TRAINING WITH HIGH ROI  
-  We call it training mainly for SEO reasons...while actually, you get instant ROI out of it. We offer insights and understanding about Team Topologies by diving into your own context. This means that aside from gaining a lot of knowledge, you will also uncover a lot of valuable insights in how you can optimize your flow of value. This means each training creates the opportunity for tangible outcomes.  
+  We call it training mainly for SEO reasons...while actually, you get instant ROI out of it. We offer **insights and understanding about Team Topologies** by diving into **your own context**. This means that aside from gaining a lot of knowledge, you will also uncover a lot of valuable insights in how you can optimize your flow of value. This means each training creates the **opportunity for tangible outcomes**.  
   
 ### AND SOME MORE  
 
-  The trainings offer a safe and neutral space for people to objectively visualize how work flows through your organization. It will align people in getting a shared understanding of the environment in which they work and will enable them to co-create solutions.  
+  The trainings offer a safe and neutral space for people to objectively visualize how work flows through your organization. It will align people in getting a **shared understanding** of the environment in which they work and will enable them to **co-create solutions**.  
 
-  Aside from working in your context, you will also benefit from the interactive, hands-on format of the trainings. The practical exercises and real-world examples will make sure everyone is engaged and can learn 'by doing'."
+  Aside from working in your context, you will also benefit from the **interactive, hands-on format** of the trainings. The practical exercises and real-world examples will make sure everyone is engaged and can **learn 'by doing'**."
   
   right_content="### PRACTICAL DETAILS  
 
@@ -165,8 +167,8 @@ facilitators:
   **Price**  
 
   Fixed price per training - max 15 people  
-  € 12.000 (excl VAT and travel costs for on-site trainings)  
-  € xxx for training + 2h follow-up session with expert insights based on the outcomes of the training.  
+  € 10.500 (excl VAT and travel costs for on-site trainings)  
+  € 12.500 for training + 2h follow-up session with expert insights based on the outcomes of the training.  
   10% discount when buying multiple trainings or workshops  
 
   **Tailored**  
@@ -177,7 +179,7 @@ facilitators:
 
 {% include call-to-action.html
   title="YES, WE WANT / NEED THIS !"
-  url="mailto:rich@conjurersolutions.co.uk?subject=Team%20Topologies%20Enablement&body=Hey%20Rich,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  url="mailto:ttvp@teamtopologiesapplied.com?subject=Team%20Topologies%20ETraining&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
   secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
   secondary_button_prefix=" or "
@@ -202,7 +204,7 @@ facilitators:
   
   right_content="
   **Is it worth the investment of time and people?**
-  The two aspects which drive the sustainable impact of Team Toplogies are 'shared vocabulary' and 'co-creation'. So the more people who start speaking the same language about the environment in which they work, the better they'll be able to collaborate in finding solutions. Enabling your teams to continuously improve the flow of value, will definitely save you a lot of time and money.
+  The two aspects which drive the sustainable impact of Team Toplogies are **'shared vocabulary'** and **'co-creation'**. So the more people who start speaking the same language about the environment in which they work, the better they'll be able to collaborate in finding solutions. Enabling your teams to continuously **improve the flow of value**, will definitely **save you a lot of time and money**.
 
   **But will it work for us?**  
   Every organization is unique. That is why we have a first conversation with you to understand your environment and specific desired outcomes from the training. Based on that, we'll ensure the training is tailored to your organization and, of course, we'll use your specific situation in all the exercises so you can get new insights into where you can improve."
@@ -242,13 +244,13 @@ facilitators:
   left_content="### MAKING YOUR FLOW VISIBLE
 
 What if you could make the flow of value in your organization visible? See the blockers to flow and identify where teams struggle with dependencies or blurry boundaries.
-What if you would look at your organization outside-in  - from your customer perspective? How well are you organized to deliver value with quality and speed?
+What if you would look at your organization outside-in - from your customer perspective? How well are you organized to deliver value with quality and speed?
 
 During these workshops, we support you and your teams to create a visual understanding of the flow of value, we help identify blockers and will enable a very constructive conversation on where to optimize.
 
 ### A SAFE SPACE
 
-Just like our trainings, these workshops offer a safe and neutral space for people to objectively visualiz﻿e how work flows through your organization. It will align people in getting a shared understanding of the environment in which they work and will enable them to co-create solutions."
+Just like our trainings, these workshops offer a safe and neutral space for people to objectively visualize how work flows through your organization. It will align people in getting a shared understanding of the environment in which they work and will enable them to co-create solutions."
   
   right_content="### PRACTICAL DETAILS
 
@@ -260,13 +262,23 @@ Facilitated by 2 TT Valued Practitioners
 
 **Price**  
 Fixed price per workshop - max 15 people  
-€ 12.000 (excl VAT and travel costs for on-site trainings)  
-€ xxx for workshop + 2h follow-up session with expert insights based on the outcomes of the workshop.  
+€ 10.500 (excl VAT and travel costs for on-site trainings)  
+€ 12.500 for workshop + 2h follow-up session with expert insights based on the outcomes of the workshop.  
 10% discount when buying multiple trainings or workshops  
 
 **Tailored**  
 We offer workshops tailored to your needs.
 Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
+%}
+
+{% include call-to-action.html
+  title="YES, WE WANT / NEED THIS !"
+  url="mailto:ttvp@teamtopologiesapplied.com?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Workshops%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  button_text=">> Send us an email"
+  secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
+  secondary_button_prefix=" or "
+  secondary_button_text=">> book a meeting"
+  section_wrap=true
 %}
 
 {% include quote_row.html
@@ -325,7 +337,7 @@ We work with you and your teams to uncover existing blockers to flow, recognize 
   id="contact"
   title="LET'S HAVE A CONVERSATION"
   main_content="Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
-  url="mailto:rich@conjurersolutions.co.uk?subject=Team%20Topologies%20Enablement&body=Hey%20Rich,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  url="mailto:ttvp@teamtopologiesapplied.com?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
   secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
   secondary_button_prefix=" or "
