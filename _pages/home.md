@@ -84,18 +84,18 @@ enabling_quote_list:
     Syngenta Digital"
 
 workshop_gallery:
-  - url: /assets/images/workshops/workshop-talking.jpg
-    image_path: /assets/images/workshops/workshop-talking.jpg
-    alt: "Workshop talking"
-    title: "Workshop talking"
   - url: /assets/images/workshops/workshop-writing.jpg
     image_path: /assets/images/workshops/workshop-writing.jpg
     alt: "Workshop writing"
     title: "Workshop writing"
-  - url: /assets/images/workshops/workshop-presentation.jpg
-    image_path: /assets/images/workshops/workshop-presentation.jpg
-    alt: "Workshop presentation"
-    title: "Workshop presentation"
+  - url: /assets/images/workshops/workshop-cirlce.jpg
+    image_path: /assets/images/workshops/workshop-circle.jpg
+    alt: "Workshop circle"
+    title: "Workshop circle"
+  - url: /assets/images/workshops/workshop_around_desk.jpg
+    image_path: /assets/images/workshops/workshop_around_desk.jpg
+    alt: "Workshop around desk"
+    title: "Workshop around desk"
 
 facilitators:
   title: "FACILITATORS"
