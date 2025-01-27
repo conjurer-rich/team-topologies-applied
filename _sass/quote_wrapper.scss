@@ -5,13 +5,13 @@
   display: inline-block;
 }
 
-.quote__wrapper .feature__item {
+.quote__wrapper .quote__item {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.quote__wrapper .feature__item .author__avatar {
+.quote__wrapper .quote__item .author__avatar {
   margin-bottom: 1em;
   width: fit-content;
   height: fit-content;

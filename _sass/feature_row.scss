@@ -6,7 +6,6 @@
 }
 
 .feature__item {
-  width: 30%; // Ensure consistent width
   text-align: left; // Center text within each item
   padding: 1.5rem;
 }
@@ -31,4 +30,11 @@
 
 .archive__item-body p.archive__item-button {
   padding-top: 0px;
+}
+
+/* Mobile-first breakpoint */
+@media (max-width: 400px) {
+  .feature__wrapper {
+    display: block;
+  }
 }

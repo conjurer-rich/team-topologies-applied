@@ -11,6 +11,12 @@
     justify-content: center;
     align-items: center;
     gap: 2rem;
+
+    @media (max-width: 400px) {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
   }
   
   &__title {
