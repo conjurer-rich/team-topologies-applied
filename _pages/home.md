@@ -162,7 +162,7 @@ facilitators:
   2 x 3 hours + 1h prep-meeting upfront  
   Online - using Miro  
   On-Site - using your walls, doors, windows,...  
-  Facilitated by 2 TT Valued Practitioners  
+  Facilitated by 2 Team Topologies Valued Practitioners  
 
   **Price**  
 
@@ -179,7 +179,7 @@ facilitators:
 
 {% include call-to-action.html
   title="YES, WE WANT / NEED THIS !"
-  url="mailto:ttvp@teamtopologiesapplied.com?subject=Team%20Topologies%20ETraining&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  url="mailto:ttvp@teamtopologiesapplied.com?subject=Team%20Topologies%20ETraining&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Training%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
   secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
   secondary_button_prefix=" or "
@@ -243,10 +243,10 @@ facilitators:
 {% include section-text-two-col.html
   left_content="### MAKING YOUR FLOW VISIBLE
 
-What if you could make the flow of value in your organization visible? See the blockers to flow and identify where teams struggle with dependencies or blurry boundaries.
+What if you could make the flow of value in your organization visible? See the **blockers to flow** and identify where teams struggle with **dependencies or blurry boundaries**.
 What if you would look at your organization outside-in - from your customer perspective? How well are you organized to deliver value with quality and speed?
 
-During these workshops, we support you and your teams to create a visual understanding of the flow of value, we help identify blockers and will enable a very constructive conversation on where to optimize.
+During these workshops, we support you and your teams to **create a visual understanding of the flow of value**, we help identify **blockers** and will enable a very constructive conversation on where to **optimize**.
 
 ### A SAFE SPACE
 
@@ -258,7 +258,7 @@ Just like our trainings, these workshops offer a safe and neutral space for peop
 2 x 3 hours + 1h prep-meeting upfront  
 Online - using Miro  
 On-Site - using your walls, doors, windows,...  
-Facilitated by 2 TT Valued Practitioners  
+Facilitated by 2 Team Topologies Valued Practitioners  
 
 **Price**  
 Fixed price per workshop - max 15 people  
@@ -299,7 +299,7 @@ Lets discuss which content, format, timing fits best with your desired outcomes.
 
 By using Team Topologies vocabulary, behavior constraints and practices, modern engineering capabilities and self-management principles, we empower your teams to sense and share when change is needed and enable them to optimize continuously.
 
-We work with you and your teams to uncover existing blockers to flow, recognize patterns and co-create solutions. Your teams will not only be able to tackle current challenges, but will also gain the knowledge and insights to ensure sustainable outcomes.
+We work with you and your teams to **uncover existing blockers to flow, recognize patterns and co-create solutions**. Your teams will not only be able to tackle current challenges, but will also gain the **knowledge and insights** to ensure **sustainable outcomes**.
 
 ## ENABLING TOPICS
 
