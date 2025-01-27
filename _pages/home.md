@@ -105,7 +105,7 @@ facilitators:
       image: "/assets/images/facilitators/rich_allen.jpeg"
       linkedin: "https://www.linkedin.com/in/richardallen/"
     - name: "Erica Engelen"
-      image: "/assets/images/facilitators/erica_engelen.jpeg"
+      image: "/assets/images/facilitators/erica_engelen.png"
       linkedin: "https://www.linkedin.com/in/ericaengelen/"
 #    - name: "João Rosa"
 #      image: "/assets/images/facilitators/joão_rosa.jpeg"
@@ -339,7 +339,7 @@ We work with you and your teams to **uncover existing blockers to flow, recogniz
   main_content="Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
   url="mailto:ttvp@teamtopologiesapplied.com?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
-  secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
+  secondary_url="https://app.reclaim.ai/m/erica-theflowhive/connect-theflowhive"
   secondary_button_prefix=" or "
   secondary_button_text=">> book a meeting"
   section_wrap=true
