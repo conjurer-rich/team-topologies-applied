@@ -203,7 +203,7 @@ facilitators:
 - PDF of Infographics and cheat sheets"
   
   right_content="
-  **Is it worth the investment of time and people?**
+  **Is it worth the investment of time and people?**  
   The two aspects which drive the sustainable impact of Team Toplogies are **'shared vocabulary'** and **'co-creation'**. So the more people who start speaking the same language about the environment in which they work, the better they'll be able to collaborate in finding solutions. Enabling your teams to continuously **improve the flow of value**, will definitely **save you a lot of time and money**.
 
   **But will it work for us?**  
