@@ -1,4 +1,4 @@
-# teamtopologiesapplied.com
+# betterteamdynamics.com
 ---
 The website for the Practical Application of Team Topologies
 
