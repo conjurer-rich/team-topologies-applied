@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en"
-title: "Team Topologies Applied"
+title: "Better Team Dynamics with Team Topologies Applied"
 title_separator: "-"
 name: "Unlock fast flow and adaptive organizational dynamics"
 description: >- # this means to ignore newlines until "baseurl:"
-  Unlock fast flow and adaptive organizational dynamics
-url: "https://teamtopologiesapplied.com/" 
+  Learn how to unlock fast flow and better adaptive organizational team dynamics with Team Topologies Applied
+url: "https://betterteamdynamics.com/" 
 baseurl: # the subpath of your site, e.g. "/blog"
 twitter_username: rich_allen  
 github_username: conjurer-rich
-repository: "conjurer-rich/team-topologies-applied" # GitHub username/repo-name
+repository: "conjurer-rich/better-team-dynamics" # GitHub username/repo-name
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
